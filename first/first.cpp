@@ -79,8 +79,7 @@ int main()
 {
 	bstNode* root = NULL;
 	int n, g;
-	cout << "Hello Tree!\n";
-	cout << "this is the writings" << endl;
+	cout << "Hello Binary Search Tree!\n";
 	cout << "Enter the number of ur input: ";
 	cin >> n;
 	for (int i = 0; i < n; i++)
